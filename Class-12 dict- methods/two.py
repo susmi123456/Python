@@ -8,15 +8,7 @@ employee={
         'Pincode':560037
     }
 }
-print(employee.keys())
+for value in employee.values():
+    print(value)
 
-for key in employee.keys():
-    print(key)
 
-#o/p
-# dict_keys(['eid', 'ename', 'esal', 'eloc', 'address'])
-# eid
-# ename
-# esal
-# eloc
-# address

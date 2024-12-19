@@ -100,7 +100,6 @@ users=[{"id":1,"name":"Rahul","gender":"Male","loc":"New Delhi"},
 {"id":100,"name":"Tally","gender":"Female","loc":"Tilburg"}]
 
 # print no of male users from give list
-# 
 
 # male_users_count=0
 
@@ -110,6 +109,7 @@ users=[{"id":1,"name":"Rahul","gender":"Male","loc":"New Delhi"},
 
 # print("No of Male Users :" ,male_users_count)
 
+# print no of male users from give list
 
 female_users_count=0
 

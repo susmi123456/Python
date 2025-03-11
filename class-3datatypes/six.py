@@ -1,0 +1,1 @@
+print(int(input("Enter frist number "))+int(input("Enter second number ")))

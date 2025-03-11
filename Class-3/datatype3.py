@@ -1,0 +1,10 @@
+b = bytes([0,10,255])
+ba = bytearray([0,10,255])
+fz = frozenset({10,20,30,40,10,20,30,40})
+print(b)
+print(ba)
+print(fz)
+print(type(b))
+print(type(ba))
+print(type(fz))
+

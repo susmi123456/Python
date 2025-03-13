@@ -1,0 +1,2 @@
+unames=('Rahul','Priyaka','Sonia')
+
